@@ -1,2 +1,28 @@
-###What do you think of Cloud Computing ?
+# What do you think of Cloud Computing ?
 
+
+<p>雲端運算廣義來說透過網際網路（Internet）訪問服務商（供應商）的資源，其包括運算、儲存、資料庫，而在狹義上則是5個服務特色、4種部屬方法、3種服務方式</p>
+
+### 5個服務特色:
+<pre>1.On-demand self-service
+2.Broad network access
+3.Measured Service
+4.Resource pooling
+5.Rapid elasticity</pre>
+### 4種部屬方法
+<pre>1.公有雲
+2.私有雲
+3.社群雲
+4.混和雲</pre>
+### 3種服務方式
+<pre>1.IAAS
+2.PAAS
+3.SAAS</pre>
+
+## 目前趨勢
+全球雲端資料中心每年所處理的流量不斷攀升，預估到了 2021 年雲端資料中心要處理的資料流量將來到 19.5 ZB，比起 2016 年成長了 3 倍之多2016年- 2021年間的年複合成長率約為 27% 隨著資料流量的增加，對於資料儲存的需求也跟著上升，因此雲端運算供應商如 Amazon、Microsoft、Google 等，大舉興建雲端運算中心需要建置更多的 IT 基礎設備，如伺服器、儲存設備、交換器等等同時提供價格較為低廉的 IaaS 服務，這使得企業用戶傾向將資料運算需求外包出去，根據 Cisco Global Cloud Index 的預估，全球超大型資料中心，在 2021 年將來到 628 座建置在超大型資料中心的伺服器比重不斷上升，2021 年將達到 53%隨著資料中心的建立，因此成了目前帶動伺服器出貨量增長的動能。
+
+![image](https://user-images.githubusercontent.com/79887489/111260701-4359bd80-865c-11eb-9fef-52d143a24994.png)
+
+## 我的想法
+<p>雲端運算確實創造了巨大的經濟價值，不管在教育、醫療、交通、金融，但我認為在廣設IT基礎設備的情況中，也要多多注意資安的問題，由於設備數量很多，萬一其中一個發生問題，很有可能造成資料外洩，成為駭客們攻擊的把柄。</p>
