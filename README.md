@@ -7,7 +7,7 @@
 
 ### [Work3 : Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/FRhUh8hMitU)
 
-### Work4 : Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda
+### [Work4 : Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://youtu.be/ISrgD5P5d_I)
 
 ### Work5 : Create a database using Amazon RDS or Amazon DynamoDB
 
