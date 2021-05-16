@@ -11,7 +11,7 @@
 
 ### [Work5 : Create a database using Amazon RDS or Amazon DynamoDB ](https://youtu.be/hGk9rqM24rk)
 
-### Work6 : Create a Docker container or Build your own Project Services
+### [Work6 : Create a Docker container or Build your own Project Services](https://youtu.be/8UrtXhjynKM)
 
 ## 專題
 ### 題目:運用機器學習於業務員風險偵測
